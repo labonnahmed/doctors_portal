@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Fluoride Treatment",
+        "description": "Lorem Ipsum is simply dummy printing and typesetting indust Ipsum has been the",
+        "image" : "fluoride.png"
+    },
+    {
+        "title": "Cavity Filling",
+        "description": "Lorem Ipsum is simply dummy printing and typesetting indust Ipsum has been the",
+        "image" : "cavity.png"
+    },
+    {
+        "title": "Teath Whitening",
+        "description": "Lorem Ipsum is simply dummy printing and typesetting indust Ipsum has been the",
+        "image" : "whitening.png"
+    }
+]

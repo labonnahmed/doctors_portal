@@ -1,0 +1,14 @@
+.header-container {
+    background-image: url(../../../images/bg.png);
+}
+
+
+#home-header:before {
+    content: '';
+    height: 100%;
+    position: absolute;
+    width: 31%;
+    right: 0%;
+    background: #3A4256;
+    z-index: -1;
+}

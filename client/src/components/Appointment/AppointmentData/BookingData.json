@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "subject": "Teeth Orthodentics",
+        "VisitingHour": "8:00 AM - 9:00 AM",
+        "totalSpace": 10
+    },
+    {
+        "id": 2,
+        "subject": "Oral Hygiene",
+        "VisitingHour": "9:00 AM - 10:00 AM",
+        "totalSpace": 9
+    },
+    {
+        "id": 3,
+        "subject": "Cosmetic Dentistry",
+        "VisitingHour": "10:00 AM - 11:00 AM",
+        "totalSpace": 10
+    },
+    {
+        "id": 4,
+        "subject": "Teeth Cleaning",
+        "VisitingHour": "4:00 PM - 5:00 PM",
+        "totalSpace": 10
+    },
+    {
+        "id": 5,
+        "subject": "Cavity Protection",
+        "VisitingHour": "6:00 PM - 7:00 PM",
+        "totalSpace": 2
+    },
+    {
+        "id": 6,
+        "subject": "Teeth Whitening",
+        "VisitingHour": "7:00 PM - 8:00 PM",
+        "totalSpace": 7
+    }
+]
